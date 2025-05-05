@@ -7,10 +7,6 @@ It relies on the OpenAI API, and an API key is required for proper functionality
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Sajjad-Amjad/Resume-Parser.git
-   cd Resume-Parser
-   ```
 
 2. **Install Dependencies:**
    ```bash
